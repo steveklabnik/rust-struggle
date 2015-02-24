@@ -1,0 +1,9 @@
+[package]
+name = "struggle"
+version = "1.0.0-alpha"
+authors = [
+  "Chris Hutchinson <chris@cshutchinson.com>"
+]
+
+[[bin]]
+name = "struggle"
